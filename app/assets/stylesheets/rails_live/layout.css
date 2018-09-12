@@ -2,10 +2,13 @@
   width: 100%;
 }
 
-.appadd {
-  white-space: nowrap;
+td {
+  max-width: 0;
   overflow: hidden;
-  width: 180px;
-  height: 30px;
-  text-overflow: ellipsis; 
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+td.message {
+  width: 30%;
 }
