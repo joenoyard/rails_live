@@ -9,6 +9,6 @@ td {
   white-space: nowrap;
 }
 
-td.message {
+td#message {
   width: 70%;
 }
