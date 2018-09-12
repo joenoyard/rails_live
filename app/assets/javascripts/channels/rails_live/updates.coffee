@@ -2,7 +2,7 @@ TEMPLATE = '<tr class="animated slideInDown">
               <td>
                 {{datetime}}
               </td>
-              <td class="full-screen-columns">{{message}}</td>
+              <td class="appadd">{{message}}</td>
               <td>
                 {{#user}}
                   {{full_name}}
