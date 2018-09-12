@@ -4,11 +4,9 @@
 
 td {
   max-width: 0;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
+  word-wrap: break-word;
 }
 
 td#message {
-  width: 70%;
+  width: 40%;
 }
