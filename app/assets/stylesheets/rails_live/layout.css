@@ -1,6 +1,6 @@
 .full-screen-columns {
   white-space: nowrap;
   overflow: hidden;
-  width: 180px;
+  width: 100px;
   text-overflow: ellipsis;
 }
